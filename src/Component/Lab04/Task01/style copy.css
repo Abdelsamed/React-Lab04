@@ -1,0 +1,19 @@
+button{
+    margin-right: 150px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: orange;
+    border: 1px solid saddlebrown;
+    border-radius: 50%;
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+}
+span{
+    font-size: 15px;
+    margin-right:40px ;
+}
+.divo{
+    padding: 10px;
+    background-color: beige;
+}
